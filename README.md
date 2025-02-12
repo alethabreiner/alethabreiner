@@ -6,7 +6,7 @@ I am a...
   * Programmer 🖥️
   * Writer 📝
   * Musician 🎶
-    > Flute, guitar, and piano 
+    * Flute, guitar, and piano 
   * Part-time Comedian 🎭
   * Full-time Clown 🤡
 
