@@ -13,6 +13,9 @@ I am a...
 
 
 ## Contact 🤝 
+
+Email -> aletha.johanna@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/aletha-breiner-a93993350/)
 
 [My Portfolio Website](https://alethajohanna.wixsite.com/my-site) (This is mostly for art stuff)
