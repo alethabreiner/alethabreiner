@@ -1,16 +1,18 @@
-## Hi there 👋
+# $${\color{#F9ECD2}Hello}$$ $${\color{#F9ECD2}World}$$ 
 
-<!--
-**alethabreiner/alethabreiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Aletha Breiner
+I am a...
+  * Digital artist 🎨
+  * Programmer 🖥️
+  * Writer 📝
+  * Musician 🎶
+    > Flute, guitar, and piano 
+  * Part-time Comedian 🎭
+  * Full-time Clown 🤡
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contact 🤝 
+[LinkedIn](https://www.linkedin.com/in/aletha-breiner-a93993350/)
+
+[My Portfolio Website](https://alethajohanna.wixsite.com/my-site) (This is mostly for art stuff)
