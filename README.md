@@ -1,6 +1,7 @@
 # $${\color{#644056}Hello}$$ $${\color{#644056}World}$$ 
 
 ## My name is Aletha Breiner
+  ![](https://github.com/alethabreiner/alethabreiner/blob/main/Name.gif)
   Pronounciation Guide -> ah-LE-thuh br-Y-ner
   
 ### Who am I?
