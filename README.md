@@ -1,6 +1,8 @@
-# $${\color{#F9ECD2}Hello}$$ $${\color{#F9ECD2}World}$$ 
+# $${\color{#644056}Hello}$$ $${\color{#644056}World}$$ 
 
 ## My name is Aletha Breiner
+  Pronounciation Guide -> ah-LE-thuh br-Y-ner
+  
 I am a...
   * Digital artist 🎨
   * Programmer 🖥️
@@ -9,12 +11,25 @@ I am a...
     * Flute, guitar, and piano 
   * Part-time Comedian 🎭
   * Full-time Clown 🤡
+***
+# 🛠️ My Skills
 
+## 🎨 Graphic Design
+* Adobe Photoshop
+* Adobe Illustrator
+* Adobe InDesign
+* Adobe Premiere Pro
+* Canva
 
+## 🖥️ Programming
+* C++
+* Java
+* More soon to come
 
-## Contact 🤝 
+***
+# Contact 🤝 
 
-Email -> aletha.johanna@gmail.com
+My Email - aletha.johanna@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/aletha-breiner-a93993350/)
 
