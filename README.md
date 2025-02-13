@@ -3,6 +3,7 @@
 ## My name is Aletha Breiner
   Pronounciation Guide -> ah-LE-thuh br-Y-ner
   
+### Who am I?
 I am a...
   * Digital artist 🎨
   * Programmer 🖥️
@@ -11,6 +12,9 @@ I am a...
     * Flute, guitar, and piano 
   * Part-time Comedian 🎭
   * Full-time Clown 🤡
+
+Currently studying Graphic Design and Computer Science at WSC - $${\color{#FFCC00}GO}$$ $${\color{#FFCC00}CATS!}$$ 🐯
+
 ***
 # 🛠️ My Skills
 
