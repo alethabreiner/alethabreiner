@@ -17,16 +17,16 @@ I am a...
 Currently studying Graphic Design and Computer Science at WSC - $${\color{#FFCC00}GO}$$ $${\color{#FFCC00}CATS!}$$ 🐯
 
 ***
-# 🛠️ My Skills
+# My Skills 🛠️
 
-## 🎨 Graphic Design
+## Graphic Design 🎨
 * Adobe Photoshop
 * Adobe Illustrator
 * Adobe InDesign
 * Adobe Premiere Pro
 * Canva
 
-## 🖥️ Programming
+## Programming 🖥️
 * C++
 * Java
 * More soon to come
