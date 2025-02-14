@@ -4,7 +4,7 @@
   ![](https://github.com/alethabreiner/alethabreiner/blob/main/Name.gif)
   Pronounciation Guide -> ah-LE-thuh br-Y-ner
   
-### Who am I?
+## Who am I?
 I am a...
   * Digital artist 🎨
   * Programmer 🖥️
