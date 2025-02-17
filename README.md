@@ -32,6 +32,12 @@ Currently studying Graphic Design and Computer Science at WSC - $${\color{#FFCC0
 * More soon to come
 
 ***
+
+# Goals ✨
+* Career in web / app design & development
+* Start my web series 
+
+***
 # Contact 🤝 
 
 My Email - aletha.johanna@gmail.com
