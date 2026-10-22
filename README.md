@@ -2,7 +2,7 @@
 
 # My name is Aletha Breiner
   ![](https://github.com/alethabreiner/alethabreiner/blob/main/name.gif)
-  Pronounciation Guide -> ah-LE-thuh br-Y-ner
+  Pronounciation Guide -> ah-LEE-thuh br-EYE-ner
   
 ## Who am I?
 I am a...
