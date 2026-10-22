@@ -24,11 +24,13 @@ Currently studying Graphic Design and Computer Science at WSC - $${\color{#FFCC0
 * Adobe Illustrator
 * Adobe InDesign
 * Adobe Premiere Pro
-* Canva
+* Figma
 
 ## Programming 🖥️
 * C++
 * Java
+* Python
+* HTML / CSS
 * More soon to come
 
 ***
